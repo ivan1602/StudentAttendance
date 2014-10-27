@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudentAttendance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_professor_course">ProfessorCourse</string>
+    <string name="title_activity_professor">Professor</string>
+    <string name="title_activity_list_my_subjects">ListMySubjects</string>
+    <string name="title_activity_classes">classes</string>
+    <string name="title_activity_apontamento_da_aula">Apontamento_da_aula</string>
+    <string name="title_activity_old_classes">Old_classes</string>
+    <string name="title_activity_my_subjects">MySubjects</string>
+    <string name="title_activity_my_clases">MyClases</string>
+    <string name="title_activity_my_classes">MyClasses</string>
+    <string name="title_activity_list_item">list_item</string>
+
+</resources>
